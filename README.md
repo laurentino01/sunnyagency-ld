@@ -2,9 +2,9 @@
 Um dos projetos mais dificeis até agora, e o que aprendi mais. A proposta era reproduzir o design e funcionalidades de uma landing page simples. Utilizei nextJs e Tailwind neste projeto. Algo que nunca tinha utilizado muito e tinha pouco dominio. Também implementei outras funcionalidades que não estavam no escopo do desafio. 
 ## Referência
 
- - [Tecnologias](https://github.com/matiassingers/awesome-readme)
- - [Link](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Design](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Tecnologias](https://github.com/laurentino01/sunnyagency-ld#tecnologias)
+ - [Link](https://github.com/laurentino01/sunnyagency-ld#link)
+ - [Design](https://github.com/laurentino01/sunnyagency-ld#design)
  
  
  ## Tecnologias
